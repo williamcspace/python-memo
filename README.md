@@ -2,8 +2,10 @@
 
 ## Web Frameworks
 - [Django](https://www.djangoproject.com/)
-- [tornado](https://www.tornadoweb.org/)
+- [Tornado](https://www.tornadoweb.org/)
 - [Flask](https://flask.pocoo.org/)
+- [Pyramid](https://github.com/Pylons/pyramid)
+- [cherrypy](https://github.com/cherrypy/cherrypy)
 
 ## Crawler
 - [Scrapy](https://github.com/scrapy/scrapy)
