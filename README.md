@@ -10,6 +10,9 @@
 ## Http
 - [Requests](https://github.com/kennethreitz/requests)
 
+## Visual
+- [matplotlib](http://matplotlib.org/)
+
 ## Packaging App
 - [cx_Freeze](http://cx-freeze.sourceforge.net/)
 - [py2exe]()
@@ -23,7 +26,7 @@
 - [lxml](https://github.com/lxml/lxml)
 
 ## Imaging Processing
--[Pillow](https://github.com/python-pillow/Pillow)
+- [Pillow](https://github.com/python-pillow/Pillow)
 
 ## Text Processing
 - [NLTK](https://github.com/nltk/nltk)
