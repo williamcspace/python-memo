@@ -7,10 +7,23 @@
 - [Pyramid](https://github.com/Pylons/pyramid)
 - [cherrypy](https://github.com/cherrypy/cherrypy)
 
+## Http
+- [Requests](https://github.com/kennethreitz/requests)
+
+## Packaging App
+- [cx_Freeze](http://cx-freeze.sourceforge.net/)
+- [py2exe]()
+
 ## Crawler
 - [Scrapy](https://github.com/scrapy/scrapy)
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
 - [Python-Goose](https://github.com/grangier/python-goose)
+
+## XML
+- [lxml](https://github.com/lxml/lxml)
+
+## Imaging Processing
+-[Pillow](https://github.com/python-pillow/Pillow)
 
 ## Text Processing
 - [NLTK](https://github.com/nltk/nltk)
@@ -41,3 +54,4 @@
 - [Monte](http://montepython.sourceforge.net/)
 - [Theano](http://deeplearning.net/software/theano/)
 - [Pylearn2](http://deeplearning.net/software/pylearn2/)
+- [OpenCV 3](https://github.com/opencv/opencv)
